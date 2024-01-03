@@ -1,7 +1,9 @@
-Gerenciador de Contas Bancárias em Java
+Gerenciador de contas bancarias
+
 Este projeto é um gerenciador de contas bancárias desenvolvido em Java, utilizando o Maven como gerenciador de dependências. O objetivo principal é proporcionar uma solução simples e eficiente para o controle de contas bancárias, permitindo a criação de usuários, autenticação por senha, depósitos, saques, transferências entre contas e armazenamento seguro dos dados em arquivos.
 
-Funcionalidades Principais
+Recursos:
+
 Criação de Usuários: O projeto permite a criação de usuários, associando a cada um deles uma conta bancária.
 
 Autenticação Segura: Utiliza senhas para autenticar os usuários, garantindo a segurança das informações.
