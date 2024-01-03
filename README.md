@@ -4,10 +4,10 @@ Este projeto é um gerenciador de contas bancárias desenvolvido em Java, utiliz
 
 Recursos:
 
-Criação de Usuários: O projeto permite a criação de usuários, associando a cada um deles uma conta bancária.
+* Criação de Usuários: O projeto permite a criação de usuários, associando a cada um deles uma conta bancária.
 
-Autenticação Segura: Utiliza senhas para autenticar os usuários, garantindo a segurança das informações.
+* Autenticação Segura: Utiliza senhas para autenticar os usuários, garantindo a segurança das informações.
 
-Operações Bancárias: Permite realizar operações comuns como depósito, saque e transferência entre contas.
+* Operações Bancárias: Permite realizar operações comuns como depósito, saque e transferência entre contas.
 
-Armazenamento em Arquivos: Os dados das contas são armazenados em arquivos, garantindo a persistência das informações entre execuções.
+* Armazenamento em Arquivos: Os dados das contas são armazenados em arquivos, garantindo a persistência das informações entre execuções.
